@@ -20,5 +20,5 @@
 * 🔥 I really love the thrill of making what I want possible!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonbots&langs_count=8)](https://github.com/tonbots/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonbots&layout=compact)](https://github.com/tonbots/github-readme-stats)
 
