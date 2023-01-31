@@ -11,7 +11,7 @@
   </p>
 </div>
 
-### About me
+### 👋 About me
 
 * 🎨 Frontend developer who loves React, React Native.
 
