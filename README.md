@@ -6,7 +6,7 @@
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
   <p align='center'>
     <a href="https://www.linkedin.com/in/kartono-saleh-8aab8017b/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:kartono.saleh@gmail.com.io"><img height="30" src="https://www.flaticon.com/free-icon/gmail_732200?term=email&page=1&position=2&origin=search&related_id=732200"></a>&nbsp;&nbsp;
+    <a href="mailto:kartono.saleh@gmail.com.io"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /></a>&nbsp;&nbsp;
   </p>
 </div>
 
