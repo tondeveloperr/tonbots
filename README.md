@@ -20,7 +20,7 @@
 * 🔥 I really love the thrill of making what I want possible!
 
 ### Languages & Frameworks & Tools & Abilities
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js, ts, html, css, react, nextjs, nodejs, redux, tailwind, sass, mysql, mongodb, vite, firebase,vscode, git, linux, figma, blender )](https://skillicons.dev)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
