@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kartono.gif">
+  <img src="image/sayHello.gif">
 </p>
 
 <div align='center'>
@@ -11,22 +11,17 @@
   </p>
 </div>
 
-
 ### About me
 
-* 🎨 Frontend developer who loves React, React Native.
+- 🎨 Frontend developer who loves React, React Native.
 
-* 🎁 Open source enthusiast. Thanks to all the open source contributors!
+- 🎁 Open source enthusiast. Thanks to all the open source contributors!
 
-* 🔥 I really love the thrill of making what I want possible!
+- 🔥 I really love the thrill of making what I want possible!
 
 ### Languages & Frameworks & Tools & Abilities
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,redux,tailwind,sass,mysql,mongodb,vite,firebase,vscode,git,linux,figma,blender)](https://skillicons.dev)
 
-
-
-
-
 | <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tonbots&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonbots&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
