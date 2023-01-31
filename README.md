@@ -27,6 +27,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 
 | <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tonbots&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonbots&layout=compact&theme=buefy&hide_border=true" /></a> |
