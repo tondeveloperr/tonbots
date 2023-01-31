@@ -19,9 +19,6 @@
 
 * 🔥 I really love the thrill of making what I want possible!
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonbots&show_icons=true&theme=transparent)
-
 | <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tonbots&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonbots&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
