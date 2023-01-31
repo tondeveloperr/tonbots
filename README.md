@@ -1,5 +1,5 @@
 <p align="center">
-  ![Screenshot](kartono.gif)
+  <img src="kartono.gif">
 </p>
 
 <div align='center'>
