@@ -3,7 +3,6 @@
 </p>
 
 <div align='center'>
-  <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
   <p align='center'>
     <a href="https://www.linkedin.com/in/kartono-saleh-8aab8017b/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
     <a href="mailto:kartono.saleh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
