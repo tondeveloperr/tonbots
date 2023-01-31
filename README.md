@@ -19,10 +19,6 @@
 
 * 🔥 I really love the thrill of making what I want possible!
 
-
-| <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tonbots&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonbots&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 ### 💼 Technical Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -31,3 +27,9 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+| <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tonbots&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonbots&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
