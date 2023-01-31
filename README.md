@@ -6,20 +6,8 @@
   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20">
   <p align='center'>
     <a href="https://www.linkedin.com/in/kartono-saleh-8aab8017b/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:kartono.saleh@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+    <a href="mailto:kartono.saleh@gmail.com.io"><img height="30" src="https://www.flaticon.com/free-icon/gmail_732200?term=email&page=1&position=2&origin=search&related_id=732200"></a>&nbsp;&nbsp;
   </p>
-</div>
-
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 
