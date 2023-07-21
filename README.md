@@ -12,15 +12,15 @@
 
 ### About me
 
-- 🎨 Frontend developer who loves React, React Native.
+- 🚀 I'm a Fullstack Web Developer with a focus on JavaScript and TypeScript. I specialize in creating captivating user interfaces using React on the frontend and harnessing the power of Express on the backend.
 
-- 🎁 Open source enthusiast. Thanks to all the open source contributors!
+- 🌟 As an open-source enthusiast, I greatly appreciate the collaborative efforts of the developer community in driving innovation and building amazing projects together.
 
-- 🔥 I really love the thrill of making what I want possible!
+- 🎯 I love challenges and find joy in turning ideas into reality through my coding skills. Let's create exceptional web experiences!
 
 ### Languages & Frameworks & Tools & Abilities
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,redux,tailwind,sass,mysql,mongodb,vite,firebase,vscode,git,linux,figma,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,redux,tailwind,sass,mysql,mongodb,vite,vscode,git,linux,figma,blender)](https://skillicons.dev)
 
-| <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tonbots&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonbots&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tondeveloperr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tonbots/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonbots&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
