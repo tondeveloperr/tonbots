@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="image/sayHello.gif">
-</p>
 
 <div align='center'>
   <p align='center'>
