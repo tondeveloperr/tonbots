@@ -1,12 +1,3 @@
-
-<div align='center'>
-  <p align='center'>
-    <a href="https://www.linkedin.com/in/kartono-saleh-8aab8017b/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-    <a href="mailto:kartono.saleh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-        <a href="https://www.youtube.com/@kartonobinsaleh"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;
-  </p>
-</div>
-
 ### About me
 
 - 🚀 I'm a Fullstack Web Developer with a focus on JavaScript and TypeScript. I specialize in creating captivating user interfaces using React on the frontend and harnessing the power of Express on the backend.
