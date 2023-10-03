@@ -15,12 +15,12 @@
 ### Demo Project
 <div style="white-space: nowrap; overflow-x: auto; max-width: 100%;">
   <a href="https://sharekini.vercel.app/">
-    <img align="center" src="./image/blog.png" width="200" height="150" />
+    <img align="center" src="./image/blog.png" width="150" height="100" />
   </a>
   <a href="https://kartono-portfolio.vercel.app/">
-    <img align="center" src="./image/portfolio.png" width="200" height="150" />
+    <img align="center" src="./image/portfolio.png" width="150" height="100" />
   </a>
   <a href="https://dashboard-admin-theta-fawn.vercel.app/">
-    <img align="center" src="./image/dashboard-admin.png" width="200" height="150" />
+    <img align="center" src="./image/dashboard-admin.png" width="150" height="100" />
   </a>
 </div>
