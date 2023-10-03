@@ -13,5 +13,5 @@
 <a href="https://github.com/tondeveloperr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tondeveloperr&layout=compact&theme=dark&bg_color=242938&hide_border=true" /></a>
 
 <div style="white-space: nowrap; overflow-x: auto; max-width: 100%;">
-  <a href="https://kartono-portfolio.vercel.app/"><img align="center" src="https://kartono-portfolio.vercel.app/" /></a>
+  <a href="https://kartono-portfolio.vercel.app/"><img align="center" src="/image/blog.png" /></a>
 </div>
