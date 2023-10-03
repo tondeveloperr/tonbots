@@ -12,6 +12,15 @@
 
 <a href="https://github.com/tondeveloperr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tondeveloperr&layout=compact&theme=dark&bg_color=242938&hide_border=true" /></a>
 
+### Demo Project
 <div style="white-space: nowrap; overflow-x: auto; max-width: 100%;">
-  <a href="https://kartono-portfolio.vercel.app/"><img align="center" src="/image/blog.png" /></a>
+  <a href="https://sharekini.vercel.app/">
+    <img align="center" src="./image/blog.png" width="200" height="150" />
+  </a>
+  <a href="https://kartono-portfolio.vercel.app/">
+    <img align="center" src="./image/portfolio.png" width="200" height="150" />
+  </a>
+  <a href="https://dashboard-admin-theta-fawn.vercel.app/">
+    <img align="center" src="./image/dashboard-admin.png" width="200" height="150" />
+  </a>
 </div>
