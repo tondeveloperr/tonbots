@@ -6,9 +6,9 @@
 
 - 🎯 I love challenges and find joy in turning ideas into reality through my coding skills. Let's create exceptional web experiences!
 
-### Languages & Frameworks & Tools & Abilities
+### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,express,redux,threejs,tailwind,sass,prisma,mysql,mongodb,vite,vscode,git,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,express,redux)](https://skillicons.dev)
 
 <a href="https://github.com/tondeveloperr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tondeveloperr&layout=compact&theme=dark&bg_color=242938&hide_border=true" /></a>
 
