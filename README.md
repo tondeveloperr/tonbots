@@ -17,11 +17,11 @@
   <a href="https://github.com/tondeveloperr/website-e-learning.git">
     <img align="center" src="./image/login.png" width="150" height="100" />
   </a>
+  <a href="https://kartono-portfolio.vercel.app/">
+    <img align="center" src="./image/portfolio-banner.png" width="150" height="100" />
+  </a>
   <a href="https://sharekini.vercel.app/">
     <img align="center" src="./image/blog.png" width="150" height="100" />
-  </a>
-  <a href="https://kartono-portfolio.vercel.app/">
-    <img align="center" src="./image/portfolio.png" width="150" height="100" />
   </a>
   <a href="https://dashboard-admin-theta-fawn.vercel.app/">
     <img align="center" src="./image/dashboard-admin.png" width="150" height="100" />
