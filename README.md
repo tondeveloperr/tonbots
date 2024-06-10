@@ -18,7 +18,7 @@
     <img align="center" src="./image/login.png" width="150" height="100" />
   </a>
   <a href="https://kartono-portfolio.vercel.app/">
-    <img align="center" src="./image/portfolio-banner.png" width="150" height="100" />
+    <img align="center" src="./image/portfolio-banner.png" width="150" height="100%" />
   </a>
   <a href="https://sharekini.vercel.app/">
     <img align="center" src="./image/blog.png" width="150" height="100" />
