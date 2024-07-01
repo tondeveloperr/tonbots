@@ -1,12 +1,13 @@
-### About me
+## Hi I'm Kartono <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-- 🚀 I'm a Fullstack Web Developer with a focus on JavaScript and TypeScript. I specialize in creating captivating user interfaces using React on the frontend and harnessing the power of Express on the backend.
+🚀 I'm a Fullstack Web Developer with a focus on JavaScript and TypeScript. I specialize in creating captivating user interfaces using React on the frontend and harnessing the power of Express on the backend.
 
-- 🌟 As an open-source enthusiast, I greatly appreciate the collaborative efforts of the developer community in driving innovation and building amazing projects together.
+:mailbox: Reach me out!
 
-- 🎯 I love challenges and find joy in turning ideas into reality through my coding skills. Let's create exceptional web experiences!
+[![Mail Badge](https://img.shields.io/badge/-Kartonobinsaleh-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@kartonobinsaleh) [![Linkedin Badge](https://img.shields.io/badge/-Kartono-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartono-8aab8017b/?trk=opento_sprofile_details)
+[![Mail Badge](https://img.shields.io/badge/-kartono-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kartono.saleh@gmail.com)
 
-### Languages & Frameworks
+### Top Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,express,redux)](https://skillicons.dev)
 
