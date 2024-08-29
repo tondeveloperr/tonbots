@@ -11,11 +11,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,express,redux)](https://skillicons.dev)
 
-<a href="https://github.com/tondeveloperr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tondeveloperr&layout=compact&theme=dark&bg_color=242938&hide_border=true" /></a>
+<a href="https://github.com/kartonobinsaleh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartonobinsaleh&layout=compact&theme=dark&bg_color=242938&hide_border=true" /></a>
 
 ### Demo Project
 <div style="white-space: nowrap; overflow-x: auto; max-width: 100%;">
-  <a href="https://github.com/tondeveloperr/website-e-learning.git">
+  <a href="https://github.com/kartonobinsaleh/website-e-learning.git">
     <img align="center" src="./image/login.png" width="150" height="100" />
   </a>
   <a href="https://kartono-portfolio.vercel.app/">
