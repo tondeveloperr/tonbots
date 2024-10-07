@@ -27,4 +27,7 @@
   <a href="https://dashboard-admin-theta-fawn.vercel.app/">
     <img align="center" src="./image/dashboard-admin.png" width="150" height="100" />
   </a>
+  <a href="https://github.com/kartonobinsaleh/flutter_daily_notes">
+    <img align="center" src="./image/dailynotes.png" width="150" height="100" />
+  </a>
 </div>
