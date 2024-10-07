@@ -9,7 +9,7 @@
 
 ### Top Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,express,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,express,flutter,redux)](https://skillicons.dev)
 
 <a href="https://github.com/kartonobinsaleh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartonobinsaleh&layout=compact&theme=dark&bg_color=242938&hide_border=true" /></a>
 
