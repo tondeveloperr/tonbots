@@ -4,7 +4,7 @@
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-Kartonobinsaleh-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@kartonobinsaleh) [![Linkedin Badge](https://img.shields.io/badge/-Kartono-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartono-8aab8017b/?trk=opento_sprofile_details)
+[![Mail Badge](https://img.shields.io/badge/-Kartonobinsaleh-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@kartonobinsaleh) [![Linkedin Badge](https://img.shields.io/badge/-Kartono-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartonobinsaleh/?trk=opento_sprofile_details)
 [![Mail Badge](https://img.shields.io/badge/-kartono-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kartono.saleh@gmail.com)
 
 ### Top Technologies
